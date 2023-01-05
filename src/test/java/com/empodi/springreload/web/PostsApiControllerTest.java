@@ -25,7 +25,7 @@ class PostsApiControllerTest {
     @LocalServerPort
     private int port;
 
-    @Autowired트
+    @Autowired
     private TestRestTemplate restTemplate;
 
     @Autowired
